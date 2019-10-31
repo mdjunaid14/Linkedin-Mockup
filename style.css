@@ -2,6 +2,10 @@
     font-family: 'Ubuntu', 'Arial', 'Helvetica', sans-serif;
 }
 
+body {
+    overflow: hidden;
+}
+
 .inspace {
     margin-top: 20px;
 }
